@@ -1,4 +1,5 @@
 # Geode iOS Launcher
+well uhh i make my own using le commit from tails1554 splitode
 Manages installing and launching **BaoGDPS** with **Geode** for iOS.
 
 <p align="center">
