@@ -25,7 +25,7 @@
 #include <objc/runtime.h>
 
 #define LOCAL_BUILD 0
-#define LOCAL_URL "https://limewire.com/d/nwIS2#r6dt2KgSMC"
+#define LOCAL_URL "https://github.com/Bao-143/beode-ios/releases/download/ipa-for-geode/BaoGDPS.2.2081.ipa"
 
 @interface RootViewController ()
 
