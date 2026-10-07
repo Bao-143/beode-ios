@@ -96,7 +96,7 @@ jobs:
         mv artifacts/GeodeLauncher/com.geode.launcher_${{ steps.ref.outputs.version }}.tipa artifacts/GeodeLauncher/com.geode.launcher_${{ steps.ref.outputs.hash }}.tipa
 
     - name: Update Development Release
-      uses: andelf/nightly-release@main
+      uses: ncipollo/release-action@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
